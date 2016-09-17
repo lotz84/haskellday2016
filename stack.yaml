@@ -1,0 +1,11 @@
+resolver: lts-6.15
+packages:
+- '.'
+extra-deps:
+- megaparsec-5.0.1
+- stache-0.1.6
+- reroute-0.4.0.1
+- Spock-core-0.11.0.0
+- Spock-0.11.0.0
+flags: {}
+extra-package-dbs: []
